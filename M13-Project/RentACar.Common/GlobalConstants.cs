@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace RentACar.Common
 {
-    public class GlobalConstants
+    public static class GlobalConstants
     {
-
+        public const string AdminRole = "Admin";
+        public const string ClientRole = "Client";
     }
 }
+
