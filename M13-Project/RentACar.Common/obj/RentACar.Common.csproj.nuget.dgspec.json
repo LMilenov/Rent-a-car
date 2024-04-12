@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucy\\Downloads\\Rent-a-car\\M13-Project\\RentACar.Common\\RentACar.Common.csproj": {}
+    "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.Common\\RentACar.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucy\\Downloads\\Rent-a-car\\M13-Project\\RentACar.Common\\RentACar.Common.csproj": {
+    "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.Common\\RentACar.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucy\\Downloads\\Rent-a-car\\M13-Project\\RentACar.Common\\RentACar.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.Common\\RentACar.Common.csproj",
         "projectName": "RentACar.Common",
-        "projectPath": "C:\\Users\\Lucy\\Downloads\\Rent-a-car\\M13-Project\\RentACar.Common\\RentACar.Common.csproj",
-        "packagesPath": "C:\\Users\\Lucy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucy\\Downloads\\Rent-a-car\\M13-Project\\RentACar.Common\\obj\\",
+        "projectPath": "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.Common\\RentACar.Common.csproj",
+        "packagesPath": "C:\\Users\\Kristiyan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lucy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kristiyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

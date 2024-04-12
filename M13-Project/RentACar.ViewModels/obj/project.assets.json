@@ -1,26 +1,45 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "RentACar.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RentACar.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RentACar.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RentACar.Common/1.0.0": {
+      "type": "project",
+      "path": "../RentACar.Common/RentACar.Common.csproj",
+      "msbuildProject": "../RentACar.Common/RentACar.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "RentACar.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\Lucy\\.nuget\\packages\\": {}
+    "C:\\Users\\Kristiyan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucy\\Downloads\\Rent-a-car\\M13-Project\\RentACar.ViewModels\\RentACar.ViewModels.csproj",
+      "projectUniqueName": "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.ViewModels\\RentACar.ViewModels.csproj",
       "projectName": "RentACar.ViewModels",
-      "projectPath": "C:\\Users\\Lucy\\Downloads\\Rent-a-car\\M13-Project\\RentACar.ViewModels\\RentACar.ViewModels.csproj",
-      "packagesPath": "C:\\Users\\Lucy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucy\\Downloads\\Rent-a-car\\M13-Project\\RentACar.ViewModels\\obj\\",
+      "projectPath": "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.ViewModels\\RentACar.ViewModels.csproj",
+      "packagesPath": "C:\\Users\\Kristiyan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lucy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kristiyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.Common\\RentACar.Common.csproj": {
+              "projectPath": "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.Common\\RentACar.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

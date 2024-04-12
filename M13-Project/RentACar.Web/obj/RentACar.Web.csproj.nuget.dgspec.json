@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucy\\Downloads\\Rent-a-car\\M13-Project\\RentACar.Web\\RentACar.Web.csproj": {}
+    "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.Web\\RentACar.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucy\\Downloads\\Rent-a-car\\M13-Project\\RentACar.Web\\RentACar.Web.csproj": {
+    "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.Web\\RentACar.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucy\\Downloads\\Rent-a-car\\M13-Project\\RentACar.Web\\RentACar.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.Web\\RentACar.Web.csproj",
         "projectName": "RentACar.Web",
-        "projectPath": "C:\\Users\\Lucy\\Downloads\\Rent-a-car\\M13-Project\\RentACar.Web\\RentACar.Web.csproj",
-        "packagesPath": "C:\\Users\\Lucy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucy\\Downloads\\Rent-a-car\\M13-Project\\RentACar.Web\\obj\\",
+        "projectPath": "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.Web\\RentACar.Web.csproj",
+        "packagesPath": "C:\\Users\\Kristiyan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kristiyan\\Documents\\Rent-a-car\\M13-Project\\RentACar.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lucy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kristiyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
