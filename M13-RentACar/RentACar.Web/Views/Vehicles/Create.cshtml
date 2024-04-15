@@ -1,0 +1,84 @@
+﻿@model RentACar.ViewModels.Vehicles.CreateVehiclesVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="text-center">
+    <h1>Add</h1>
+    <h4>Vehicle</h4>
+</div>
+<hr />
+<div class="row d-flex justify-content-center align-items-center h-100">
+    <div class="col-lg-9 col-xl-7">
+        <div class="card rounded-3" style="background-color:#F0F2F5">
+            <div class="card-body p-4 p-md-5">
+                <form asp-controller="Vehicles" asp-action="Create" enctype="multipart/form-data" method="post">
+                    <h4>Add a new vehicle.</h4>
+                    <hr />
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Brand"></label>
+                        <input asp-for="Brand" class="form-control" />
+                        <span asp-validation-for=" Brand" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Model"></label>
+                        <input asp-for="Model" class="form-control" />
+                        <span asp-validation-for="Model" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Description"></label>
+                        <input asp-for="Description" class="form-control" />
+                        <span asp-validation-for=" Description" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PassengerSeats"></label>
+                        <input asp-for="PassengerSeats" class="form-control" />
+                        <span asp-validation-for=" PassengerSeats" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PricePerDay"></label>
+                        <input asp-for="PricePerDay" class="form-control" />
+                        <span asp-validation-for=" PricePerDay" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Year"></label>
+                        <input asp-for="Year" class="form-control" />
+                        <span asp-validation-for=" Year" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Picture" class="form-label"></label>
+                        <input asp-for="Picture" type="file" class="form-control" />
+                        <span asp-validation-for="Picture" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn btn-warning">Add</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+<style>
+    body {
+        margin: auto;
+        background-color: whitesmoke;
+    }
+    .text-center > h4 {
+        margin: 0 auto;
+        text-align: center;
+        width: 100px;
+        color: whitesmoke;
+        border: 1px solid #292929;
+        padding: 5px;
+        border-radius: 10px;
+        background-color: #292929;
+    }
+</style>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

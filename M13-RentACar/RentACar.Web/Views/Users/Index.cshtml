@@ -1,0 +1,65 @@
+﻿@model IndexUsersVM
+
+
+@{
+    ViewData["Title"] = "Users List";
+}
+
+<h1 class="text-center">Users List</h1>
+
+<p>
+    <a asp-action="Create" class="btn bg-warning">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Full name
+            </th>
+            <th>
+                Username
+            </th>
+            <th>
+                Email
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Users)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id"><i class="fa-solid fa-pen-to-square"></i></a> |
+                    <a asp-action="Details" asp-route-id="@item.Id"><i class="fa-solid fa-circle-info"></i></a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id"><i class="fa-solid fa-trash"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    body {
+        margin: auto;
+        background-color: whitesmoke;
+    }
+    h1{
+        padding:20px;
+    }
+    i{
+        color: #292929;
+    }
+</style>
+
+<partial name="_PagingPartial" />

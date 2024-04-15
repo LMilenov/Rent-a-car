@@ -1,0 +1,51 @@
+﻿@model AcceptRequestVM
+
+@{
+    ViewData["Title"] = "Accept";
+}
+
+<h1>Accept</h1>
+
+<div>
+    <h4>Request</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StartDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StartDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.EndDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.EndDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BrandOfVehicle)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BrandOfVehicle)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ModelOfVehicle)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ModelOfVehicle)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PriceOfVehicle)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PriceOfVehicle)
+        </dd>
+    </dl>
+</div>
+<div>
+    <form asp-action="Accept">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Accept" class="btn btn-dark" /> |
+        <a asp-action="Index" class="btn btn-dark">Back to List</a>
+    </form>
+</div>

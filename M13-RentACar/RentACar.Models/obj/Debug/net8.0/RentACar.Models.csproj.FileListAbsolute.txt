@@ -1,0 +1,15 @@
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\bin\Debug\net8.0\RentACar.Models.deps.json
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\bin\Debug\net8.0\RentACar.Models.dll
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\bin\Debug\net8.0\RentACar.Models.pdb
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\bin\Debug\net8.0\RentACar.Common.dll
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\bin\Debug\net8.0\RentACar.Common.pdb
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\obj\Debug\net8.0\RentACar.Models.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\obj\Debug\net8.0\RentACar.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\obj\Debug\net8.0\RentACar.Models.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\obj\Debug\net8.0\RentACar.Models.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\obj\Debug\net8.0\RentACar.Models.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\obj\Debug\net8.0\RentACar.B7FD3D2A.Up2Date
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\obj\Debug\net8.0\RentACar.Models.dll
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\obj\Debug\net8.0\refint\RentACar.Models.dll
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\obj\Debug\net8.0\RentACar.Models.pdb
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Models\obj\Debug\net8.0\ref\RentACar.Models.dll

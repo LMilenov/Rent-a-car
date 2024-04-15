@@ -1,0 +1,11 @@
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Common\bin\Debug\net8.0\RentACar.Common.deps.json
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Common\bin\Debug\net8.0\RentACar.Common.dll
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Common\bin\Debug\net8.0\RentACar.Common.pdb
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Common\obj\Debug\net8.0\RentACar.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Common\obj\Debug\net8.0\RentACar.Common.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Common\obj\Debug\net8.0\RentACar.Common.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Common\obj\Debug\net8.0\RentACar.Common.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Common\obj\Debug\net8.0\RentACar.Common.dll
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Common\obj\Debug\net8.0\refint\RentACar.Common.dll
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Common\obj\Debug\net8.0\RentACar.Common.pdb
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.Common\obj\Debug\net8.0\ref\RentACar.Common.dll

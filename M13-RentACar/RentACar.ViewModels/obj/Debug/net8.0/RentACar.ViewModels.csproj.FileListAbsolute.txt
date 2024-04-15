@@ -1,0 +1,17 @@
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\bin\Debug\net8.0\RentACar.ViewModels.deps.json
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\bin\Debug\net8.0\RentACar.ViewModels.dll
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\bin\Debug\net8.0\RentACar.ViewModels.pdb
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\bin\Debug\net8.0\RentACar.Common.dll
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\bin\Debug\net8.0\RentACar.Models.dll
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\bin\Debug\net8.0\RentACar.Common.pdb
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\bin\Debug\net8.0\RentACar.Models.pdb
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\obj\Debug\net8.0\RentACar.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\obj\Debug\net8.0\RentACar.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\obj\Debug\net8.0\RentACar.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\obj\Debug\net8.0\RentACar.ViewModels.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\obj\Debug\net8.0\RentACar.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\obj\Debug\net8.0\RentACar.AFB06B7E.Up2Date
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\obj\Debug\net8.0\RentACar.ViewModels.dll
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\obj\Debug\net8.0\refint\RentACar.ViewModels.dll
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\obj\Debug\net8.0\RentACar.ViewModels.pdb
+C:\Users\Kristiyan\source\repos\M13-RentACar\RentACar.ViewModels\obj\Debug\net8.0\ref\RentACar.ViewModels.dll
