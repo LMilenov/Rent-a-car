@@ -12,7 +12,7 @@ using RentACar.Data;
 namespace RentACar.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240415223539_InitialMigration")]
+    [Migration("20240415233316_InitialMigration")]
     partial class InitialMigration
     {
         /// <inheritdoc />

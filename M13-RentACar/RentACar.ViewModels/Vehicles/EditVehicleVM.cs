@@ -33,6 +33,6 @@ namespace RentACar.ViewModels.Vehicles
         [Range(30, 100000)]
         [Display(Name = "Price per day")]
         public decimal PricePerDay { get; set; }
-        public string Url { get; set; }
+        public string? Url { get; set; }
     }
 }

@@ -33,7 +33,7 @@ namespace RentACar.ViewModels.Users
         [Display(Name = "Phone number")]
         public string PhoneNumber { get; set; }
 
-        //[Required]
+        [Required]
         [StringLength(10, ErrorMessage = "The {0} must be at exactly {2}.", MinimumLength = 10)]
         [Display(Name = "Personal Number")]
         public string PersonalNumber { get; set; }
