@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentACar.Service", "RentACa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentACar.ViewModels", "RentACar.ViewModels\RentACar.ViewModels.csproj", "{89052E35-9E52-498C-9559-8BCC31F1838C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentACar.Models", "RentACar.Models\RentACar.Models.csproj", "{9781F768-6F68-4DDA-8CE0-030801A311DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentACar.Models", "RentACar.Models\RentACar.Models.csproj", "{9781F768-6F68-4DDA-8CE0-030801A311DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
