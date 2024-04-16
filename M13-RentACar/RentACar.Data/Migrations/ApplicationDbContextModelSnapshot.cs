@@ -177,11 +177,9 @@ namespace RentACar.Data.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("UserId")
-                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("VehicleId")
-                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.HasKey("Id");
@@ -357,15 +355,11 @@ namespace RentACar.Data.Migrations
                 {
                     b.HasOne("RentACar.Models.User", "User")
                         .WithMany("Requests")
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("UserId");
 
                     b.HasOne("RentACar.Models.Vehicle", "Vehicle")
                         .WithMany("Requests")
-                        .HasForeignKey("VehicleId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("VehicleId");
 
                     b.Navigation("User");
 

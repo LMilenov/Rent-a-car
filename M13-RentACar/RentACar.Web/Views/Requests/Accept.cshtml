@@ -43,8 +43,8 @@
     </dl>
 </div>
 <div>
-    <form asp-action="Accept">
-        <input type="hidden" asp-for="Id"/>
+    <form asp-action="Accept" method="post">
+        <input type="hidden" asp-for="Id" />
         <input type="submit" value="Accept" class="btn btn-dark"/> |
         <a asp-action="Index" class="btn btn-dark">Back to List</a>
     </form>

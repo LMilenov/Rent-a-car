@@ -29,7 +29,7 @@ namespace RentACar.Web.Controllers
 
         // GET: RequestsAdmin
         [Authorize(Roles = GlobalConstants.AdminRole)]
-        public async Task<IActionResult> Index( int page = 1, int itemsPerPage = 10)
+        public async Task<IActionResult> Index(int page = 1, int itemsPerPage = 10)
         {
             var model = await requestsService.GetIndexRequestsAdminAsync(page, itemsPerPage);
             return View(model);
@@ -38,7 +38,7 @@ namespace RentACar.Web.Controllers
         public async Task<IActionResult> IndexClient(string id, int page = 1, int itemsPerPage = 10)
         {
             id = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            var model = await requestsService.GetIndexRequestsClientAsync(id,page, itemsPerPage);
+            var model = await requestsService.GetIndexRequestsClientAsync(id, page, itemsPerPage);
             return View(model);
         }
         // GET: Create
@@ -58,12 +58,9 @@ namespace RentACar.Web.Controllers
         {
             string userId = this.User.FindFirstValue(ClaimTypes.NameIdentifier);
             model.User = userId;
-            if (this.ModelState.IsValid)
-            {
                 model.RequestId = await this.requestsService.CreateRequestAsync(model);
                 return RedirectToAction("CreateSelectCar", model);
-            }
-            return this.View(model);
+          
         }
 
         // GET: CreateSelectCar
@@ -78,7 +75,7 @@ namespace RentACar.Web.Controllers
         [Authorize(Roles = GlobalConstants.AdminRole)]
         public async Task<IActionResult> BookForAdmin(string requestId, string carId)
         {
-            await this.requestsService.UpdateRequestAsync(requestId,carId);
+            await this.requestsService.UpdateRequestAsync(requestId, carId);
             return Redirect(nameof(Index));
         }
         public async Task<IActionResult> BookForClient(string requestId, string carId)
@@ -117,12 +114,9 @@ namespace RentACar.Web.Controllers
         [Authorize(Roles = GlobalConstants.AdminRole)]
         public async Task<IActionResult> Accept(AcceptRequestVM model)
         {
-            if (ModelState.IsValid)
-            {
-                await requestsService.AcceptRequestAsync(model);
-                return RedirectToAction(nameof(Index));
-            }
             string userId = this.User.FindFirstValue(ClaimTypes.NameIdentifier);
+            await requestsService.AcceptRequestAsync(model);
+            return RedirectToAction(nameof(Index));
             return View(model);
         }
 
