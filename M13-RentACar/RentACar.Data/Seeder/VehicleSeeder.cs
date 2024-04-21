@@ -12,6 +12,7 @@ namespace RentACar.Data.Seeder
 {
     public class VehicleSeeder : ISeeder
     {
+        //Vehicle seed 
         public async Task SeedAsync(ApplicationDbContext dbContext, IServiceProvider serviceProvider)
         {
             if (dbContext.Vehicles.Any())

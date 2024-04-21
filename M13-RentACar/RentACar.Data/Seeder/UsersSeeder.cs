@@ -11,6 +11,7 @@ namespace RentACar.Data.Seeding
 {
     public class UsersSeeder : ISeeder
     {
+        //User seed
         public async Task SeedAsync(ApplicationDbContext dbContext, IServiceProvider serviceProvider)
         {
             if (dbContext.Users.Any())

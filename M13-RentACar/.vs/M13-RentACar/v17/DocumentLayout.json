@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.data\\seeder\\vehicleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|solutionrelative:rentacar.data\\seeder\\vehicleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.data\\seeder\\usersseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|solutionrelative:rentacar.data\\seeder\\usersseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.data\\seeder\\rolesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|solutionrelative:rentacar.data\\seeder\\rolesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -89,11 +97,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Seeder\\VehicleSeeder.cs",
+              "RelativeDocumentMoniker": "RentACar.Data\\Seeder\\VehicleSeeder.cs",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Seeder\\VehicleSeeder.cs",
+              "RelativeToolTip": "RentACar.Data\\Seeder\\VehicleSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T09:00:27.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UsersSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Seeder\\UsersSeeder.cs",
+              "RelativeDocumentMoniker": "RentACar.Data\\Seeder\\UsersSeeder.cs",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Seeder\\UsersSeeder.cs",
+              "RelativeToolTip": "RentACar.Data\\Seeder\\UsersSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T09:00:10.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RequestsSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Seeder\\RequestsSeeder.cs",
               "RelativeDocumentMoniker": "RentACar.Data\\Seeder\\RequestsSeeder.cs",
@@ -101,12 +135,11 @@
               "RelativeToolTip": "RentACar.Data\\Seeder\\RequestsSeeder.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T08:57:08.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T08:57:08.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RolesSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Seeder\\RolesSeeder.cs",
               "RelativeDocumentMoniker": "RentACar.Data\\Seeder\\RolesSeeder.cs",
@@ -119,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContextSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Seeder\\ApplicationDbContextSeeder.cs",
               "RelativeDocumentMoniker": "RentACar.Data\\Seeder\\ApplicationDbContextSeeder.cs",
@@ -131,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "UsersService.cs",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Services\\UsersService.cs",
               "RelativeDocumentMoniker": "RentACar.Services\\UsersService.cs",
@@ -143,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "RequestsService.cs",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Services\\RequestsService.cs",
               "RelativeDocumentMoniker": "RentACar.Services\\RequestsService.cs",
@@ -155,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "RentACar.Web\\Views\\Home\\Index.cshtml",
@@ -167,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "RentACar.Web\\Views\\Shared\\_LoginPartial.cshtml",
@@ -179,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "_PagingPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_PagingPartial.cshtml",
               "RelativeDocumentMoniker": "RentACar.Web\\Views\\Shared\\_PagingPartial.cshtml",
@@ -191,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "RentACar.Web\\Views\\Shared\\Error.cshtml",
@@ -203,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "RentACar.Web\\Views\\_ViewStart.cshtml",
@@ -215,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "RentACar.Web\\Views\\_ViewImports.cshtml",
@@ -227,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "RentACar.Web\\wwwroot\\css\\site.css",
@@ -239,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "RentACar.Web\\Views\\Shared\\_Layout.cshtml",
@@ -251,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "VehiclesService.cs",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Services\\VehiclesService.cs",
               "RelativeDocumentMoniker": "RentACar.Services\\VehiclesService.cs",
@@ -263,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "RentACar.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -275,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "VehiclesController.cs",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Controllers\\VehiclesController.cs",
               "RelativeDocumentMoniker": "RentACar.Web\\Controllers\\VehiclesController.cs",
@@ -287,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "20240416130349_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Migrations\\20240416130349_InitialMigration.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Migrations\\20240416130349_InitialMigration.cs",
@@ -299,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "RentACar.Data\\ApplicationDbContext.cs",
@@ -311,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\appsettings.json",
               "RelativeDocumentMoniker": "RentACar.Web\\appsettings.json",
@@ -323,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Program.cs",
               "RelativeDocumentMoniker": "RentACar.Web\\Program.cs",
