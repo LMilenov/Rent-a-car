@@ -44,3 +44,15 @@ C:\Users\Kristiyan\Desktop\Rent-a-car\M13-RentACar\RentACar.Common\obj\Debug\net
 C:\Users\Kristiyan\Desktop\Rent-a-car\M13-RentACar\RentACar.Common\obj\Debug\net8.0\refint\RentACar.Common.dll
 C:\Users\Kristiyan\Desktop\Rent-a-car\M13-RentACar\RentACar.Common\obj\Debug\net8.0\RentACar.Common.pdb
 C:\Users\Kristiyan\Desktop\Rent-a-car\M13-RentACar\RentACar.Common\obj\Debug\net8.0\ref\RentACar.Common.dll
+C:\Users\Svetlomir\Downloads\Rent-a-car\M13-RentACar\RentACar.Common\bin\Debug\net8.0\RentACar.Common.deps.json
+C:\Users\Svetlomir\Downloads\Rent-a-car\M13-RentACar\RentACar.Common\bin\Debug\net8.0\RentACar.Common.dll
+C:\Users\Svetlomir\Downloads\Rent-a-car\M13-RentACar\RentACar.Common\bin\Debug\net8.0\RentACar.Common.pdb
+C:\Users\Svetlomir\Downloads\Rent-a-car\M13-RentACar\RentACar.Common\obj\Debug\net8.0\RentACar.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetlomir\Downloads\Rent-a-car\M13-RentACar\RentACar.Common\obj\Debug\net8.0\RentACar.Common.AssemblyInfoInputs.cache
+C:\Users\Svetlomir\Downloads\Rent-a-car\M13-RentACar\RentACar.Common\obj\Debug\net8.0\RentACar.Common.AssemblyInfo.cs
+C:\Users\Svetlomir\Downloads\Rent-a-car\M13-RentACar\RentACar.Common\obj\Debug\net8.0\RentACar.Common.csproj.CoreCompileInputs.cache
+C:\Users\Svetlomir\Downloads\Rent-a-car\M13-RentACar\RentACar.Common\obj\Debug\net8.0\RentACar.Common.sourcelink.json
+C:\Users\Svetlomir\Downloads\Rent-a-car\M13-RentACar\RentACar.Common\obj\Debug\net8.0\RentACar.Common.dll
+C:\Users\Svetlomir\Downloads\Rent-a-car\M13-RentACar\RentACar.Common\obj\Debug\net8.0\refint\RentACar.Common.dll
+C:\Users\Svetlomir\Downloads\Rent-a-car\M13-RentACar\RentACar.Common\obj\Debug\net8.0\RentACar.Common.pdb
+C:\Users\Svetlomir\Downloads\Rent-a-car\M13-RentACar\RentACar.Common\obj\Debug\net8.0\ref\RentACar.Common.dll

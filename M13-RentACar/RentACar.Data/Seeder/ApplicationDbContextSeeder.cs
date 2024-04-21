@@ -10,6 +10,7 @@
 
     public class ApplicationDbContextSeeder : ISeeder
     {
+        //Seeder
         public async Task SeedAsync(ApplicationDbContext dbContext, IServiceProvider serviceProvider)
         {
             if (dbContext == null)
