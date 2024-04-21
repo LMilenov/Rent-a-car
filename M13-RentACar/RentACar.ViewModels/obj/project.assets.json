@@ -6971,19 +6971,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kristiyan\\.nuget\\packages\\": {}
+    "C:\\Users\\Svetlomir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.ViewModels\\RentACar.ViewModels.csproj",
+      "projectUniqueName": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.ViewModels\\RentACar.ViewModels.csproj",
       "projectName": "RentACar.ViewModels",
-      "projectPath": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.ViewModels\\RentACar.ViewModels.csproj",
-      "packagesPath": "C:\\Users\\Kristiyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.ViewModels\\obj\\",
+      "projectPath": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.ViewModels\\RentACar.ViewModels.csproj",
+      "packagesPath": "C:\\Users\\Svetlomir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kristiyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Svetlomir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6997,11 +6997,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Common\\RentACar.Common.csproj": {
-              "projectPath": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Common\\RentACar.Common.csproj"
+            "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Common\\RentACar.Common.csproj": {
+              "projectPath": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Common\\RentACar.Common.csproj"
             },
-            "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Models\\RentACar.Models.csproj": {
-              "projectPath": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Models\\RentACar.Models.csproj"
+            "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Models\\RentACar.Models.csproj": {
+              "projectPath": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Models\\RentACar.Models.csproj"
             }
           }
         }
@@ -7046,7 +7046,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

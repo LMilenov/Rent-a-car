@@ -1,66 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\",
+  "WorkspaceRootPath": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.web\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.web\\views\\shared\\_pagingpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\views\\shared\\_pagingpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56B1826-F20B-4BD1-8B62-EE3E88A41223}|RentACar.Services\\RentACar.Services.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.services\\vehiclesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D56B1826-F20B-4BD1-8B62-EE3E88A41223}|RentACar.Services\\RentACar.Services.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.services\\vehiclesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56B1826-F20B-4BD1-8B62-EE3E88A41223}|RentACar.Services\\RentACar.Services.csproj|solutionrelative:rentacar.services\\vehiclesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.web\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D56B1826-F20B-4BD1-8B62-EE3E88A41223}|RentACar.Services\\RentACar.Services.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B1826-F20B-4BD1-8B62-EE3E88A41223}|RentACar.Services\\RentACar.Services.csproj|solutionrelative:rentacar.services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B1826-F20B-4BD1-8B62-EE3E88A41223}|RentACar.Services\\RentACar.Services.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.services\\requestsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B1826-F20B-4BD1-8B62-EE3E88A41223}|RentACar.Services\\RentACar.Services.csproj|solutionrelative:rentacar.services\\requestsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.web\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.web\\views\\shared\\_pagingpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\views\\shared\\_pagingpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.web\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|solutionrelative:rentacar.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56F273F0-DB6C-4148-8573-78C61CC3D744}|RentACar.Web\\RentACar.Web.csproj|solutionrelative:rentacar.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|c:\\users\\kristiyan\\desktop\\rent-a-car\\m13-rentacar\\rentacar.data\\migrations\\20240416130349_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|solutionrelative:rentacar.data\\migrations\\20240416130349_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Migrations\\20240416130349_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,119 +77,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "RentACar.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "RentACar.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-16T13:12:31.557Z",
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "RentACar.Services\\UsersService.cs",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Services\\UsersService.cs",
+              "RelativeToolTip": "RentACar.Services\\UsersService.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAmwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T08:38:55.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "RentACar.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "RentACar.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-16T13:12:11.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "RentACar.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "RentACar.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-16T13:12:06.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_PagingPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_PagingPartial.cshtml",
-              "RelativeDocumentMoniker": "RentACar.Web\\Views\\Shared\\_PagingPartial.cshtml",
-              "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_PagingPartial.cshtml",
-              "RelativeToolTip": "RentACar.Web\\Views\\Shared\\_PagingPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-16T13:12:03.606Z",
+              "Title": "RequestsService.cs",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Services\\RequestsService.cs",
+              "RelativeDocumentMoniker": "RentACar.Services\\RequestsService.cs",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Services\\RequestsService.cs",
+              "RelativeToolTip": "RentACar.Services\\RequestsService.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAAwIsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T08:36:05.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "RentACar.Web\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "RentACar.Web\\Views\\Shared\\Error.cshtml",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RentACar.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RentACar.Web\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-16T13:12:02.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T13:12:11.79Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "RentACar.Web\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "RentACar.Web\\Views\\_ViewStart.cshtml",
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "RentACar.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "RentACar.Web\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-16T13:12:00.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T13:12:06.469Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "RentACar.Web\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "RentACar.Web\\Views\\_ViewImports.cshtml",
+              "Title": "_PagingPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_PagingPartial.cshtml",
+              "RelativeDocumentMoniker": "RentACar.Web\\Views\\Shared\\_PagingPartial.cshtml",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_PagingPartial.cshtml",
+              "RelativeToolTip": "RentACar.Web\\Views\\Shared\\_PagingPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-16T13:11:59.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T13:12:03.606Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "RentACar.Web\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "RentACar.Web\\wwwroot\\css\\site.css",
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "RentACar.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "RentACar.Web\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-16T13:10:40.773Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T13:12:02.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RentACar.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "RentACar.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T13:12:00.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RentACar.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RentACar.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T13:11:59.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "RentACar.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "RentACar.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T13:10:40.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "RentACar.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "RentACar.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAADUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -191,24 +204,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "VehiclesService.cs",
-              "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Services\\VehiclesService.cs",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Services\\VehiclesService.cs",
               "RelativeDocumentMoniker": "RentACar.Services\\VehiclesService.cs",
-              "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Services\\VehiclesService.cs",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Services\\VehiclesService.cs",
               "RelativeToolTip": "RentACar.Services\\VehiclesService.cs",
-              "ViewState": "AQIAAKQAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAcwJIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T13:05:43.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RentACar.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "RentACar.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T13:12:31.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "VehiclesController.cs",
-              "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Controllers\\VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Controllers\\VehiclesController.cs",
               "RelativeDocumentMoniker": "RentACar.Web\\Controllers\\VehiclesController.cs",
-              "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Controllers\\VehiclesController.cs",
               "RelativeToolTip": "RentACar.Web\\Controllers\\VehiclesController.cs",
               "ViewState": "AQIAADgAAAAAAAAAAAAIwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,23 +241,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "20240416130349_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Migrations\\20240416130349_InitialMigration.cs",
-              "RelativeDocumentMoniker": "RentACar.Data\\Migrations\\20240416130349_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Migrations\\20240416130349_InitialMigration.cs",
               "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Migrations\\20240416130349_InitialMigration.cs",
-              "RelativeToolTip": "RentACar.Data\\Migrations\\20240416130349_InitialMigration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Migrations\\20240416130349_InitialMigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T13:03:49.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "RentACar.Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "RentACar.Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -240,11 +265,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\appsettings.json",
               "RelativeDocumentMoniker": "RentACar.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\appsettings.json",
               "RelativeToolTip": "RentACar.Web\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -252,11 +277,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Program.cs",
               "RelativeDocumentMoniker": "RentACar.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\Kristiyan\\Desktop\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Web\\Program.cs",
               "RelativeToolTip": "RentACar.Web\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -20,7 +20,7 @@
             this.context = context;
             this.userManager = userManager;
         }
-
+        // Delete user
         public async Task DeleteUserByIdAsync(string id)
         {
             User user = await userManager.FindByIdAsync(id);
@@ -28,7 +28,7 @@
             await userManager.DeleteAsync(user);
             await context.SaveChangesAsync();
         }
-
+        // Create user
         public async Task CreateUserAsync(CreateUserVM model)
         {
             User user = new User()
@@ -48,7 +48,7 @@
             await userManager.CreateAsync(user, model.Password);
             await userManager.AddToRoleAsync(user, GlobalConstants.ClientRole);
         }
-
+        // Update user
         public async Task UpdateUserAsync(EditUserVM model)
         {
             User user = await context.Users.FindAsync(model.Id);
@@ -61,7 +61,7 @@
             user.PersonalNumber = model.PersonalNumber;
             await context.SaveChangesAsync();
         }
-
+        // Edit user
         public async Task<EditUserVM> GetUserToEditByIdAsync(string id)
         {
             User user = await context.Users.FindAsync(id);

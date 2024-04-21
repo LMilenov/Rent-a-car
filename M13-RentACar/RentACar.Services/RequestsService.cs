@@ -21,7 +21,7 @@ namespace RentACar.Services
         {
             this.context = context;
         }
-
+        // Get admin request
         public async Task<IndexRequestsVM> GetIndexRequestsAdminAsync(int page = 1, int itemsPerPage = 10)
         {
             IndexRequestsVM model = new IndexRequestsVM();
@@ -46,6 +46,7 @@ namespace RentACar.Services
 
             return model;
         }
+        // Get valid vehicle
         public async Task<BookVehicleVM> GetIndexValidatedVehiclesAsync(CreateRequestVM createModel, int page = 1, int count = 10)
         {
             BookVehicleVM model = new BookVehicleVM();
@@ -71,6 +72,7 @@ namespace RentACar.Services
                 .Where(x => x.Requests.All(r => (r.StartDate >= createModel.StartDate && r.EndDate <= createModel.StartDate) || (r.StartDate >= createModel.EndDate && r.EndDate <= createModel.EndDate))).CountAsync();
             return model;
         }
+        // CRUD
         public async Task<string> CreateRequestAsync(CreateRequestVM model)
         {
             User user = this.context.Users.FirstOrDefault(x => x.Id == model.User);
@@ -86,7 +88,7 @@ namespace RentACar.Services
             await this.context.SaveChangesAsync();
             return request.Id;
         }
-
+        // CRUD
         public async Task DeleteAsync(string id)
         {
             Request request = this.context.Requests.Find(id);
@@ -122,7 +124,7 @@ namespace RentACar.Services
                 PriceOfVehicle = request.Vehicle.PricePerDay,
             };
         }
-
+        //Update request
         public async Task UpdateRequestAsync(string requestId, string carId)
         {
             Request request = await this.context.Requests.FindAsync(requestId);
@@ -135,7 +137,7 @@ namespace RentACar.Services
             }
             await context.SaveChangesAsync();
         }
-
+        // Get Client
         public async Task<IndexClientRequestsVM> GetIndexRequestsClientAsync(string id, int page = 1, int itemsPerPage = 10)
         {
             IndexClientRequestsVM model = new IndexClientRequestsVM();

@@ -26,7 +26,7 @@ namespace RentACar.Services
         {
             this.context = context;
         }
-
+        // Delete vehicle
         public async Task DeleteVehicleByIdAsync(string id)
         {
             Vehicle car = await context.Vehicles.FindAsync(id);
@@ -34,7 +34,7 @@ namespace RentACar.Services
             context.Vehicles.Remove(car);
             await context.SaveChangesAsync();
         }
-
+        // Find vehicle
         public async Task<IndexVehiclesVM> GetIndexVehiclesAsync(int page = 1, int count = 10)
         {
             IndexVehiclesVM model = new IndexVehiclesVM();
@@ -60,7 +60,7 @@ namespace RentACar.Services
 
             return model;
         }
-
+        // Create vehicle
         public async Task CreateVehicleAsync(CreateVehiclesVM model)
         {
             model.Url = await ImageToStringAsync(model.Picture);
@@ -79,7 +79,7 @@ namespace RentACar.Services
             await context.Vehicles.AddAsync(car);
             await context.SaveChangesAsync();
         }
-
+        // Convert image to string 
         private async Task<string> ImageToStringAsync(IFormFile file)
         {
             List<string> imageExtensions = new List<string>() { ".JPG", ".BMP", ".PNG" };
@@ -99,7 +99,7 @@ namespace RentACar.Services
             }
             return null;
         }
-
+        // Find vehicle
         public async Task<IndexVehicleVM> GetVehicleByIdAsync(string id)
         {
             Vehicle car = await context.Vehicles.FindAsync(id);
@@ -123,7 +123,7 @@ namespace RentACar.Services
 
             return model;
         }
-
+        // Edit vehicle 
         public async Task<EditVehicleVM> GetVehicleToEditByIdAsync(string id)
         {
             Vehicle car = await context.Vehicles.FindAsync(id);
@@ -144,7 +144,7 @@ namespace RentACar.Services
             }
             return model;
         }
-
+        // Update vehicle
         public async Task UpdateVehicleAsync(EditVehicleVM model)
         {
             Vehicle car = await context.Vehicles.FindAsync(model.Id);
