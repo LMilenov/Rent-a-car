@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.data\\seeder\\rolesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|solutionrelative:rentacar.data\\seeder\\rolesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.data\\seeder\\requestsseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|solutionrelative:rentacar.data\\seeder\\requestsseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.data\\seeder\\applicationdbcontextseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|solutionrelative:rentacar.data\\seeder\\applicationdbcontextseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.data\\seeder\\rolesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DB67DC6-4756-4B83-A58F-C2D97E01BA4A}|RentACar.Data\\RentACar.Data.csproj|solutionrelative:rentacar.data\\seeder\\rolesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56B1826-F20B-4BD1-8B62-EE3E88A41223}|RentACar.Services\\RentACar.Services.csproj|c:\\users\\svetlomir\\downloads\\rent-a-car\\m13-rentacar\\rentacar.services\\vehiclesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,11 +89,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RequestsSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Seeder\\RequestsSeeder.cs",
               "RelativeDocumentMoniker": "RentACar.Data\\Seeder\\RequestsSeeder.cs",
@@ -106,20 +106,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "RolesSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Seeder\\RolesSeeder.cs",
               "RelativeDocumentMoniker": "RentACar.Data\\Seeder\\RolesSeeder.cs",
               "ToolTip": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Seeder\\RolesSeeder.cs",
               "RelativeToolTip": "RentACar.Data\\Seeder\\RolesSeeder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T08:56:55.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContextSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Svetlomir\\Downloads\\Rent-a-car\\M13-RentACar\\RentACar.Data\\Seeder\\ApplicationDbContextSeeder.cs",
               "RelativeDocumentMoniker": "RentACar.Data\\Seeder\\ApplicationDbContextSeeder.cs",
@@ -127,8 +127,7 @@
               "RelativeToolTip": "RentACar.Data\\Seeder\\ApplicationDbContextSeeder.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T08:55:32.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T08:55:32.347Z"
             },
             {
               "$type": "Document",

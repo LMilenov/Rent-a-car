@@ -11,6 +11,7 @@ namespace RentACar.Data.Seeding
 {
     public class RolesSeeder : ISeeder
     {
+        //Seed role 
         public async Task SeedAsync(ApplicationDbContext dbContext, IServiceProvider serviceProvider)
         {
             var roleManager = serviceProvider.GetRequiredService<RoleManager<IdentityRole>>();
